@@ -1,4 +1,3 @@
-import '@tarojs/async-await';
 import Taro, { Component } from '@tarojs/taro';
 import * as QL from 'graphql-sync-multi-platform/graphql_cache.core';
 import { Provider } from '@tarojs/redux';
